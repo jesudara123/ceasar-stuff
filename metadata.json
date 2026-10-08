@@ -1,0 +1,6 @@
+{
+  "name": "Lecturer Assignment Manager",
+  "description": "Modern assignment and student management platform for university lecturers to create coursework, track submissions, evaluate rubrics, and grade students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
